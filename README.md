@@ -1,6 +1,6 @@
 # \<firebase-image-upload\>
 
-upload images to firebase storage: this is a striped down image uploader similar to the one in [The Firecast Tutorial: Getting Started with Storage on the Web](https://youtu.be/SpxHVrpfGgU?list=PLl-K7zZEsYLnJVX_0zbKytptZGugPIbJR). The only major difference is it was created as a Polymer element.
+upload images to firebase storage: this is a stripped down image uploader similar to the one in [The Firecast Tutorial: Getting Started with Storage on the Web](https://youtu.be/SpxHVrpfGgU?list=PLl-K7zZEsYLnJVX_0zbKytptZGugPIbJR). The only major difference is it was created as a Polymer element.
 
 This could easily be forked into something more useful and validatey.
 
